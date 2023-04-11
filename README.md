@@ -4,7 +4,7 @@ Lake Victoria wetlands have faced a myriad of threats arising from human activit
 
 In Uganda, there has been efforts to protect and restore degraded wetlands through enforcement of wetland management policies and engaging relevant stakeholders. Information generated from satellite imagery analysis including wetland change maps is vital in making decisions and generating effective and sustainable wetland resource management policies as well as deliberating on ways of mitigating the loss of these vital ecosystems.
 
-In this work, I detect changes in wetland ecosystems in the Lake Victoria basin in Uganda using Landsat timeseries satellite imagery of 2015 and 2020. The code can be found [here](https://code.earthengine.google.com/557499345eea790285a1ee044884a4fd).
+In this work, I detect changes in wetland ecosystems in the Lake Victoria basin in Uganda using Landsat timeseries satellite imagery of 2002 and 2022. The code can be found [here][(https://code.earthengine.google.com/f274c98dd9d166353362b1d6749f6045)].
 
 
 
