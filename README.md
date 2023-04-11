@@ -8,4 +8,4 @@ In this work, I detect changes in wetland ecosystems in the Lake Victoria basin 
 
 
 
-![images/wetland.PNG](images/wetland.PNG)
+![images/classified.PNG](images/classified.PNG)
